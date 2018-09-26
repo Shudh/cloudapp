@@ -1,0 +1,9 @@
+These are the commands that you need. Write them to terminal.
+sudo service mysqld start
+sudo mysql_secure_installation
+
+To run MySQL Shell:
+mysql -uroot -p
+
+To stop just type the code below.
+sudo service mysqld stop
